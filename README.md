@@ -26,7 +26,9 @@ git clone https://github.com/furushigava/Mouse_Movement_Detection_Model
 
 ### Веб-версия
 
-Веб-версия доступна по ссылке: 
+Веб-версия доступна по ссылке: https://furushigava.github.io/MouseBotIdentifier/
+PS: Чем ближе значение к 0 — тем больше вероятность того, что движется человек. 1 — бот.
+
 Чтобы запустить локально:
 ```bash
 python web/app.py
