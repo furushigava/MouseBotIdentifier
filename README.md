@@ -82,7 +82,7 @@ To collect the necessary training data, follow these steps:
    - Load the `resource_override_mouse_checker_client.js` file into the extension.
 
 3. **Configure the Movement Type:**
-   - Set the extension to record either bot or human movements.
+   - Modify the corresponding variable in the `resource_override_mouse_checker_client.js` file to set the movement type you want to record (either "bot" or "human").
 
 4. **Run `web/app.py`:**
    - Run the `app.py` script to start the server.
